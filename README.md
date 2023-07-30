@@ -1,5 +1,7 @@
 # React Recipe App
 
+Live site here: https://recipe-app-vcq4.onrender.com/
+
 The app will display a recipe's name, cuisine, photo, ingredients, preparation instructions and action buttons (delete).
 
 ## Functionality
